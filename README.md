@@ -1,8 +1,3 @@
-# highscripts_pedsystem
+You are using our trademark and we will take actions if you do not take this name off your github profile.
 
-# Dipendenze
-
-Es_extended
-
-# Copyright
-Copyright © 2024 High Scripts This README file includes all the necessary sections: documentation link, requirements with hyperlinks, instructions for cloning the GitHub repository, an example of a FiveM script, and contact information. Feel free to modify any part as needed!
+Please contact me on discord: highrider to discuss this in further detail.
